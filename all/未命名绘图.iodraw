@@ -124,7 +124,7 @@
         </mxCell>
         <mxCell id="desAwsuYgPwIu_aPhDKe-31" value="用户信息表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="desAwsuYgPwIu_aPhDKe-30">
           <mxGeometry x="-0.0237" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
