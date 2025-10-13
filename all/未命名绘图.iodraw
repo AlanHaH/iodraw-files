@@ -260,6 +260,11 @@
             <mxPoint x="510" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="desAwsuYgPwIu_aPhDKe-64" value="订单信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="desAwsuYgPwIu_aPhDKe-62">
+          <mxGeometry x="-0.2929" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
