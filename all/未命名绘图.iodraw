@@ -80,6 +80,12 @@
         <mxCell id="desAwsuYgPwIu_aPhDKe-20" value="网上购物系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="220" y="310" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="desAwsuYgPwIu_aPhDKe-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="400" as="sourcePoint" />
+            <mxPoint x="210" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
