@@ -347,9 +347,15 @@
             <mxPoint x="630" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="desAwsuYgPwIu_aPhDKe-81" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="desAwsuYgPwIu_aPhDKe-80">
+        <mxCell id="desAwsuYgPwIu_aPhDKe-81" value="订单信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="desAwsuYgPwIu_aPhDKe-80">
           <mxGeometry x="0.0626" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="desAwsuYgPwIu_aPhDKe-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.04;exitY=0.393;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.245;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="desAwsuYgPwIu_aPhDKe-24" target="desAwsuYgPwIu_aPhDKe-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="360" as="sourcePoint" />
+            <mxPoint x="580" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
