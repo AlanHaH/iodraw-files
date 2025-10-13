@@ -77,7 +77,7 @@
         <mxCell id="desAwsuYgPwIu_aPhDKe-19" value="第0层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="65" y="268" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="desAwsuYgPwIu_aPhDKe-20" value="网上购物系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="desAwsuYgPwIu_aPhDKe-20" value="商家登录管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="220" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="desAwsuYgPwIu_aPhDKe-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="desAwsuYgPwIu_aPhDKe-18">
