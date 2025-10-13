@@ -140,8 +140,13 @@
         </mxCell>
         <mxCell id="desAwsuYgPwIu_aPhDKe-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0.41;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="desAwsuYgPwIu_aPhDKe-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="420" as="sourcePoint" />
+            <mxPoint x="260" y="440" as="sourcePoint" />
             <mxPoint x="270" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="desAwsuYgPwIu_aPhDKe-38" value="登录信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="desAwsuYgPwIu_aPhDKe-37">
+          <mxGeometry x="0.4154" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
