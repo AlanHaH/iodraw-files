@@ -13,7 +13,7 @@
         <mxCell id="desAwsuYgPwIu_aPhDKe-4" value="商家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="180" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="desAwsuYgPwIu_aPhDKe-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="desAwsuYgPwIu_aPhDKe-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.065;entryY=0.295;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="desAwsuYgPwIu_aPhDKe-1" target="desAwsuYgPwIu_aPhDKe-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="240" as="sourcePoint" />
             <mxPoint x="270" y="190" as="targetPoint" />
