@@ -91,7 +91,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="desAwsuYgPwIu_aPhDKe-24" value="商家登录管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="desAwsuYgPwIu_aPhDKe-24" value="商品管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="desAwsuYgPwIu_aPhDKe-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="desAwsuYgPwIu_aPhDKe-20" target="desAwsuYgPwIu_aPhDKe-24">
