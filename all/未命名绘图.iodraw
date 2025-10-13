@@ -113,7 +113,7 @@
         </mxCell>
         <mxCell id="desAwsuYgPwIu_aPhDKe-29" value="用户信息表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="desAwsuYgPwIu_aPhDKe-28">
           <mxGeometry x="-0.0237" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="desAwsuYgPwIu_aPhDKe-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -188,9 +188,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="desAwsuYgPwIu_aPhDKe-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="desAwsuYgPwIu_aPhDKe-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.205;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="desAwsuYgPwIu_aPhDKe-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="470" as="sourcePoint" />
+            <mxPoint x="160" y="460" as="sourcePoint" />
             <mxPoint x="330" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
