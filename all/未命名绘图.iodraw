@@ -107,8 +107,8 @@
         </mxCell>
         <mxCell id="desAwsuYgPwIu_aPhDKe-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="450" as="sourcePoint" />
-            <mxPoint x="200" y="450" as="targetPoint" />
+            <mxPoint x="109" y="447" as="sourcePoint" />
+            <mxPoint x="209" y="447" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="desAwsuYgPwIu_aPhDKe-29" value="用户信息表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="desAwsuYgPwIu_aPhDKe-28">
