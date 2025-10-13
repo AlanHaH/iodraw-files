@@ -172,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="desAwsuYgPwIu_aPhDKe-43" value="商家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="350" width="100" height="40" as="geometry" />
+          <mxGeometry x="20" y="500" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
