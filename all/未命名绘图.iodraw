@@ -253,7 +253,7 @@
             <mxPoint x="730" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="desAwsuYgPwIu_aPhDKe-68" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="desAwsuYgPwIu_aPhDKe-60">
+        <mxCell id="desAwsuYgPwIu_aPhDKe-68" value="评论信息表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="desAwsuYgPwIu_aPhDKe-60">
           <mxGeometry x="-0.1197" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
