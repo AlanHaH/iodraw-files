@@ -280,17 +280,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="desAwsuYgPwIu_aPhDKe-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.165;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="desAwsuYgPwIu_aPhDKe-56">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="460" as="sourcePoint" />
-            <mxPoint x="570" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="desAwsuYgPwIu_aPhDKe-70" value="库存修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="desAwsuYgPwIu_aPhDKe-69">
-          <mxGeometry x="-0.2319" y="3" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
