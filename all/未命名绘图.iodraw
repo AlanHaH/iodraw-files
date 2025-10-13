@@ -302,7 +302,7 @@
             <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="desAwsuYgPwIu_aPhDKe-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.355;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="desAwsuYgPwIu_aPhDKe-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="427.6" y="611.36" as="sourcePoint" />
             <mxPoint x="440" y="570" as="targetPoint" />
@@ -312,6 +312,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="399.99999999999994" y="570" as="sourcePoint" />
             <mxPoint x="400.2" y="608.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="desAwsuYgPwIu_aPhDKe-75" value="加购信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="desAwsuYgPwIu_aPhDKe-74">
+          <mxGeometry x="-0.2563" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
