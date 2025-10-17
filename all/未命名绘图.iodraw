@@ -389,7 +389,7 @@
         <mxCell id="desAwsuYgPwIu_aPhDKe-91" value="身份验证" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="300" y="700" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="desAwsuYgPwIu_aPhDKe-93" value="用户登录管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="desAwsuYgPwIu_aPhDKe-93" value="商品搜索与显示" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="500" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="desAwsuYgPwIu_aPhDKe-94" value="用户登录管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -475,8 +475,8 @@
         </mxCell>
         <mxCell id="LFPomUXOiuxCqVfBp78n-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="826" as="sourcePoint" />
-            <mxPoint x="490" y="826" as="targetPoint" />
+            <mxPoint x="394" y="860" as="sourcePoint" />
+            <mxPoint x="494" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
