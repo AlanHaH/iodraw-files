@@ -524,6 +524,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LFPomUXOiuxCqVfBp78n-23" value="购物车列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="751.8571428571431" y="881" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
