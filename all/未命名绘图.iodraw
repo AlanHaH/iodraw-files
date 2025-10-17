@@ -443,7 +443,7 @@
             <mxPoint x="310" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPomUXOiuxCqVfBp78n-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-6">
+        <mxCell id="LFPomUXOiuxCqVfBp78n-15" value="用户信息表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-6">
           <mxGeometry x="0.0743" y="-4" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
