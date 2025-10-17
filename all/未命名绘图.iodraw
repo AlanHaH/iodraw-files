@@ -737,13 +737,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPomUXOiuxCqVfBp78n-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="LFPomUXOiuxCqVfBp78n-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.364;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="desAwsuYgPwIu_aPhDKe-99">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="268" y="1278" as="sourcePoint" />
-            <mxPoint x="280" y="1340" as="targetPoint" />
+            <mxPoint x="310" y="1330" as="sourcePoint" />
+            <mxPoint x="412" y="1352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPomUXOiuxCqVfBp78n-78" value="商家信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-77">
+        <mxCell id="LFPomUXOiuxCqVfBp78n-78" value="登录信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-77">
           <mxGeometry x="-0.095" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
