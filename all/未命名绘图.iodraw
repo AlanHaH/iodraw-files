@@ -389,6 +389,12 @@
         <mxCell id="desAwsuYgPwIu_aPhDKe-91" value="身份验证" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="300" y="700" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="LFPomUXOiuxCqVfBp78n-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="563.0042712474622" y="775.0042712474617" as="sourcePoint" />
+            <mxPoint x="606.4357287525384" y="878.4357287525381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="desAwsuYgPwIu_aPhDKe-93" value="用户登录管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="500" y="700" width="80" height="80" as="geometry" />
         </mxCell>
