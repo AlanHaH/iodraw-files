@@ -524,8 +524,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPomUXOiuxCqVfBp78n-23" value="购物车列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="751.8571428571431" y="881" as="geometry" />
+        <mxCell id="LFPomUXOiuxCqVfBp78n-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="959.29" as="sourcePoint" />
+            <mxPoint x="940" y="959.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LFPomUXOiuxCqVfBp78n-25" value="商品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-24">
+          <mxGeometry x="-0.0343" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
