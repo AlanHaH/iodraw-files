@@ -418,7 +418,7 @@
         <mxCell id="desAwsuYgPwIu_aPhDKe-100" value="用户登录管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="190" y="1200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="desAwsuYgPwIu_aPhDKe-101" value="用户登录管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="desAwsuYgPwIu_aPhDKe-101" value="商品发货" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="314" y="1060" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="desAwsuYgPwIu_aPhDKe-102" value="用户登录管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -582,7 +582,7 @@
         <mxCell id="LFPomUXOiuxCqVfBp78n-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="desAwsuYgPwIu_aPhDKe-98">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="1150" as="sourcePoint" />
-            <mxPoint x="90" y="1100" as="targetPoint" />
+            <mxPoint x="90" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
