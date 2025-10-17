@@ -552,6 +552,11 @@
             <mxPoint x="840" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LFPomUXOiuxCqVfBp78n-32" value="地址信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-30">
+          <mxGeometry x="-0.1983" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
