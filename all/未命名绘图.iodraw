@@ -461,6 +461,11 @@
             <mxPoint x="790" y="826" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LFPomUXOiuxCqVfBp78n-14" value="购物车列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-10">
+          <mxGeometry x="0.0457" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LFPomUXOiuxCqVfBp78n-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="714" y="778" as="sourcePoint" />
