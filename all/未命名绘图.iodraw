@@ -721,8 +721,10 @@
             <mxPoint x="330" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPomUXOiuxCqVfBp78n-70" value="ang" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1300" width="140" height="160" as="geometry" />
+        <mxCell id="LFPomUXOiuxCqVfBp78n-71" value="商家信息表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-68">
+          <mxGeometry x="-0.0686" y="-4" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
