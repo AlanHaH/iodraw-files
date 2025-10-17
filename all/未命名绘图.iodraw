@@ -715,6 +715,17 @@
             <mxPoint x="240" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LFPomUXOiuxCqVfBp78n-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="890" as="sourcePoint" />
+            <mxPoint x="320" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LFPomUXOiuxCqVfBp78n-69" value="用户信息表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-68">
+          <mxGeometry x="0.0743" y="-4" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
