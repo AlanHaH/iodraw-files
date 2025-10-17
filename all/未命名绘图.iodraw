@@ -732,7 +732,18 @@
             <mxPoint x="270" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LFPomUXOiuxCqVfBp78n-76" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-75">
+        <mxCell id="LFPomUXOiuxCqVfBp78n-76" value="商家信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-75">
+          <mxGeometry x="-0.095" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LFPomUXOiuxCqVfBp78n-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="268" y="1278" as="sourcePoint" />
+            <mxPoint x="280" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LFPomUXOiuxCqVfBp78n-78" value="商家信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-77">
           <mxGeometry x="-0.095" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
