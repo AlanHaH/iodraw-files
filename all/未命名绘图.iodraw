@@ -676,7 +676,12 @@
         <mxCell id="LFPomUXOiuxCqVfBp78n-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="1180" as="sourcePoint" />
-            <mxPoint x="610" y="1130" as="targetPoint" />
+            <mxPoint x="560" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LFPomUXOiuxCqVfBp78n-61" value="商品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-60">
+          <mxGeometry x="-0.1604" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
