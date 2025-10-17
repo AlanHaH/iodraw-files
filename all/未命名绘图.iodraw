@@ -386,7 +386,7 @@
         <mxCell id="LFPomUXOiuxCqVfBp78n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="desAwsuYgPwIu_aPhDKe-91" target="desAwsuYgPwIu_aPhDKe-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LFPomUXOiuxCqVfBp78n-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-3">
+        <mxCell id="LFPomUXOiuxCqVfBp78n-19" value="登录信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-3">
           <mxGeometry x="-0.1048" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -450,6 +450,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="1070" as="sourcePoint" />
             <mxPoint x="340" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LFPomUXOiuxCqVfBp78n-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LFPomUXOiuxCqVfBp78n-5">
+          <mxGeometry x="-0.086" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LFPomUXOiuxCqVfBp78n-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
