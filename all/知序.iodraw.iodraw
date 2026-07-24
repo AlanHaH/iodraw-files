@@ -26,7 +26,7 @@
           <mxGeometry x="370" y="360" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-10" value="Ai推荐，或者自定义目标" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="225" width="140" height="75" as="geometry" />
+          <mxGeometry x="370" y="225" width="140" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
