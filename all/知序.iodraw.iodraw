@@ -20,7 +20,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="suf7ZhYSRQOHvVk-mCPw-4" target="suf7ZhYSRQOHvVk-mCPw-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="520" />
+              <mxPoint x="630" y="660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-4" value="agent生成计划" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="450" width="140" height="140" as="geometry" />
