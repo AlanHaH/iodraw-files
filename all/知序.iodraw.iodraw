@@ -10,16 +10,15 @@
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-1" value="用户输入画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="70" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="suf7ZhYSRQOHvVk-mCPw-4" value="agent生成计划" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="400" width="140" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="suf7ZhYSRQOHvVk-mCPw-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="suf7ZhYSRQOHvVk-mCPw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="suf7ZhYSRQOHvVk-mCPw-10" target="suf7ZhYSRQOHvVk-mCPw-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="suf7ZhYSRQOHvVk-mCPw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="suf7ZhYSRQOHvVk-mCPw-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-10" value="Ai推荐，或者自定义目标" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="140" height="65" as="geometry" />
