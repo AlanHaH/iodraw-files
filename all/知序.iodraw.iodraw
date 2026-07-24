@@ -67,7 +67,7 @@
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suf7ZhYSRQOHvVk-mCPw-31" target="suf7ZhYSRQOHvVk-mCPw-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="suf7ZhYSRQOHvVk-mCPw-31" value="ai根据目标，生成每日任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="suf7ZhYSRQOHvVk-mCPw-31" value="ai根据目标&lt;div&gt;生成每日任务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="366.5" y="470" width="129" height="60" as="geometry" />
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="suf7ZhYSRQOHvVk-mCPw-33" target="suf7ZhYSRQOHvVk-mCPw-1">
