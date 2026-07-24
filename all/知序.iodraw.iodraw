@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-4" value="生成计划" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="360" width="140" height="140" as="geometry" />
+          <mxGeometry x="369" y="360" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="suf7ZhYSRQOHvVk-mCPw-10" target="suf7ZhYSRQOHvVk-mCPw-4">
           <mxGeometry relative="1" as="geometry" />
