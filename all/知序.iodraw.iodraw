@@ -18,6 +18,9 @@
             <mxPoint x="430" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="suf7ZhYSRQOHvVk-mCPw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="suf7ZhYSRQOHvVk-mCPw-10" target="suf7ZhYSRQOHvVk-mCPw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-10" value="Ai推荐，或者自定义目标" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="140" height="65" as="geometry" />
         </mxCell>
@@ -49,6 +52,9 @@
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-24" value="手动添加完整" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="suf7ZhYSRQOHvVk-mCPw-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="338" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
