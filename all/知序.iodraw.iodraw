@@ -11,14 +11,15 @@
           <mxGeometry x="356" y="70" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-4" value="agent生成计划" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="430" width="140" height="140" as="geometry" />
+          <mxGeometry x="660" y="460" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="suf7ZhYSRQOHvVk-mCPw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="suf7ZhYSRQOHvVk-mCPw-10">
+        <mxCell id="suf7ZhYSRQOHvVk-mCPw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="470" as="targetPoint" />
+            <mxPoint x="400" y="470" as="targetPoint" />
+            <mxPoint x="400" y="325" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="430" y="398" />
-              <mxPoint x="430" y="398" />
+              <mxPoint x="400" y="398" />
+              <mxPoint x="400" y="398" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,8 +63,8 @@
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="470" as="targetPoint" />
-            <mxPoint x="460" y="325" as="sourcePoint" />
+            <mxPoint x="470" y="470" as="targetPoint" />
+            <mxPoint x="470" y="325" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
