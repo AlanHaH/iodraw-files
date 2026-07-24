@@ -39,7 +39,7 @@
           <mxGeometry x="535" y="70" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-17" value="不完整" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="158" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-19" value="学习画像完整" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="268" width="100" height="30" as="geometry" />
@@ -82,7 +82,7 @@
           <mxGeometry x="371" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-41" value="完成目标，更新画像" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="338" width="130" height="30" as="geometry" />
+          <mxGeometry x="100" y="338" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
