@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="suf7ZhYSRQOHvVk-mCPw-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="suf7ZhYSRQOHvVk-mCPw-1" target="suf7ZhYSRQOHvVk-mCPw-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="suf7ZhYSRQOHvVk-mCPw-1" target="suf7ZhYSRQOHvVk-mCPw-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -46,8 +43,8 @@
         <mxCell id="suf7ZhYSRQOHvVk-mCPw-16" value="检查是否完整" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="60" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="suf7ZhYSRQOHvVk-mCPw-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="158" width="50" height="30" as="geometry" />
+        <mxCell id="suf7ZhYSRQOHvVk-mCPw-17" value="不完整" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="158" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
